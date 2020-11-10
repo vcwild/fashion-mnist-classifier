@@ -1,8 +1,32 @@
-# Fashion MNIST Classifier
+<h1 align="center">
+  <a href=#>
+    <img src="https://github.com/zalandoresearch/fashion-mnist/blob/master/doc/img/embedding.gif" width="50%"/>
+  </a>  
+  <br>
+  Fashion MNIST Classifier
+</h1>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vcwild/fashion-mnist-classifier">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vcwild/fashion-mnist-classifier">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a>
+</p>
 
 ## Implementation
 - [Original model](image_classifier.ipynb)
 - [Underlying features](image_classifier_underlying.ipynb)
+
+## Scoring
+
+## With 1 dense layer
+
+Overall accuracy: 0.7950
+
+## With 2 dense layers
+
+Baseline accuracy: 0.8484\
+Best validation accuracy: 0.8640 
 
 ## How this neural network is structured?
 
@@ -13,7 +37,6 @@
   <img src='http://i.imgur.com/WonDKDM.png' alt='layers' />
 
 </p>
-
 
 ## Summary
 ### Model
@@ -42,7 +65,7 @@ Adam optimization is a stochastic gradient descent method that is based on adapt
 Sparse categorical crossentropy
 
 ## References
-
+Xiao, H. *et al*. Fashion MNIST Dataset. GitHub; 2015. [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)  
 SAMPAIO, C. Deep Learning. AOVS Sistemas de Informática S.A; 2019.\
 Chollet F, *et al*. Keras. GitHub; 2015.
 
