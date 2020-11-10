@@ -19,11 +19,11 @@
 
 ## Scoring
 
-## With 1 dense layer
+### With 1 dense layer
 
 Overall accuracy: 0.7950
 
-## With 2 dense layers
+### With 2 dense layers
 
 Baseline accuracy: 0.8484\
 Best validation accuracy: 0.8640 
@@ -41,7 +41,7 @@ Best validation accuracy: 0.8640
 ## Summary
 ### Model
 
-Model: "sequential"
+Type: "sequential"
 
 |Layer (type)|Output Shape|Param #  | 
 |---|---|---|
