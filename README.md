@@ -43,5 +43,7 @@ Sparse categorical crossentropy
 
 ## References
 
-SAMPAIO, C. Deep Learning. <b>AOVS Sistemas de Informática S.A.</b>, <i>[s.l.]</i>. 2019.
+SAMPAIO, C. Deep Learning. **AOVS Sistemas de Informática S.A.**; 2019.
+
+Chollet F, *et al*. Keras. GitHub; 2015.
 
