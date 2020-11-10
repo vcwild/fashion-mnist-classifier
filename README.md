@@ -2,7 +2,7 @@
 
 ## Implementation
 - [Original model](image_classifier.ipynb)
-- [Underlying features](image_classifier.ipynb)
+- [Underlying features](image_classifier_underlying.ipynb)
 
 ## How this neural network is structured?
 
@@ -43,7 +43,6 @@ Sparse categorical crossentropy
 
 ## References
 
-SAMPAIO, C. Deep Learning. **AOVS Sistemas de Informática S.A.**; 2019.
-
+SAMPAIO, C. Deep Learning. AOVS Sistemas de Informática S.A; 2019.\
 Chollet F, *et al*. Keras. GitHub; 2015.
 
