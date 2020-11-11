@@ -65,7 +65,6 @@ Adam optimization is a stochastic gradient descent method that is based on adapt
 Sparse categorical crossentropy
 
 ## References
-Xiao, H. *et al*. Fashion MNIST Dataset. GitHub; 2015. [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)  
-SAMPAIO, C. Deep Learning. AOVS Sistemas de Informática S.A; 2019.\
-Chollet F, *et al*. Keras. GitHub; 2015.
-
+Xiao, H. *et al*. [Fashion MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist). GitHub; 2015.\
+Sampaio, C. Deep Learning. AOVS Sistemas de Informática S.A; 2019.\
+Chollet, F. *et al*. [Keras](https://keras.io/api/). GitHub; 2015.
